@@ -1,0 +1,14 @@
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\obj\Debug\net6.0\1program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\obj\Debug\net6.0\1program.AssemblyInfoInputs.cache
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\obj\Debug\net6.0\1program.AssemblyInfo.cs
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\obj\Debug\net6.0\1program.csproj.CoreCompileInputs.cache
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\bin\Debug\net6.0\1program.exe
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\bin\Debug\net6.0\1program.deps.json
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\bin\Debug\net6.0\1program.runtimeconfig.json
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\bin\Debug\net6.0\1program.dll
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\bin\Debug\net6.0\1program.pdb
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\obj\Debug\net6.0\1program.dll
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\obj\Debug\net6.0\refint\1program.dll
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\obj\Debug\net6.0\1program.pdb
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\obj\Debug\net6.0\1program.genruntimeconfig.cache
+C:\Users\tolik\OneDrive\Documents\RKE129\promming\1program\1program\obj\Debug\net6.0\ref\1program.dll
